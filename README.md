@@ -1,4 +1,4 @@
-# 🎨 UI/UX Design & Frontend Workspace — Day 7
+# 🎨CLAUDE-AI — Day 7
 <img width="1218" height="615" alt="Screenshot 2026-07-23 140955" src="https://github.com/user-attachments/assets/c3ead944-6fd8-4cdf-9ff2-9aeb42983709" />
 <img width="674" height="641" alt="Screenshot 2026-07-23 140902" src="https://github.com/user-attachments/assets/18f58238-5839-45cc-9d1d-9d037d5294d1" />
 <img width="757" height="574" alt="Screenshot 2026-07-23 132313" src="https://github.com/user-attachments/assets/fa2c9bf6-0808-47ef-aa7e-134381cfb5e1" />
